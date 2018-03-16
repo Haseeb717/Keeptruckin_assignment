@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time: 2018-03-16 01:26:33
+  end_time: MyString
+  date_time: MyString
+  distance_covered: MyString
+  user: one
+  vehicle: one
+
+two:
+  start_time: 2018-03-16 01:26:33
+  end_time: MyString
+  date_time: MyString
+  distance_covered: MyString
+  user: two
+  vehicle: two
